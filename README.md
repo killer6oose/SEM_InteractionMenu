@@ -8,6 +8,8 @@ Some menu features also have commands out of ease during RP.
 
 SEM_InteractionMenu was created using NativeUI [LUA]
 
+I do NOT own this code, this code was created by https://github.com/sc0ttM/. This is just my modifications to the SEM menu
+
 
 ### Information:
 Current Version: **v1.6.1**
